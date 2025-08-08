@@ -8,7 +8,7 @@ All Versions of RTWO are supported.
 <h2>Latest Release</h2>
 
 * [Latest APK: [AGC9.1.24_V15.0](https://www.celsoazevedo.com/files/android/google-camera/dev-BigKaka/f/dl62/)
-* [Config: Latest Release](https://github.com/d-solis/rtwo-agc-conf/releases/latest/)
+* [Config: Latest Release](https://github.com/ch3gg5/rtwo-agc-conf/releases/latest/)
 
 <h2>Known Bugs</h2>
 
